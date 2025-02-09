@@ -32,7 +32,7 @@ export default function Works() {
     {
       title: "Care Pulse",
       gitLink: "https://github.com/haridharanesh-official/Care_Pulse",
-      liveLink: "https://carepulse.netlify.app",
+      liveLink: "https://carepulse.vercel.app",
       about:
         "The Care Pulse Appointment App offers a secure and seamless booking experience with a top-tier UI/UX design. Built with advanced security measures, it ensures safe data handling and encrypted communication. Users can schedule, manage, and track appointments effortlessly, enhancing accessibility and efficiency in healthcare services. Smooth, intuitive, and reliable.",
       stack: ["react", "react-router", "javascript", "tailwindcss", "Next.js"],
@@ -50,7 +50,7 @@ export default function Works() {
     {
       title: "MedRemind",
       gitLink: "https://github.com/haridharanesh-official/MedRemind",
-      liveLink: "https://medremind.netlify.app",
+      liveLink: "https://medremind.vercel.app",
       about:
         "The MedRemind Medication Reminder App ensures precise tracking, security, and an intuitive UI/UX for seamless medication management. It features timely reminders, dosage tracking, and encrypted health data storage. With a user-friendly design and advanced security, it helps users stay on track with medications while ensuring safety and efficiency.",
       stack: ["react", "expo", "javascript", "appdevelopment"],
