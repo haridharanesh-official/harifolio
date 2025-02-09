@@ -31,12 +31,12 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Hari Dharanesh SP — Frontend Developer",
     description:
-      "Frontend Engineer formerly at Bluechip Technologies, passionate about crafting next-gen software and creative websites. I drive growth by crafting user experiences that blend aesthetics with functionality through my design and development skills. I thrive on turning ideas into seamless digital solutions.",
+      "I am a passionate UI/UX designer and frontend developer dedicated to crafting seamless and visually compelling digital experiences. As a fresher with a strong foundation in UX research and frontend technologies, I have worked on numerous projects that showcase my ability to create user-friendly, accessible, and high-performance web applications.",
     url: "https://www.haridharanesh.me",
     siteName: "www.haridharanesh.me",
     images: [
       {
-        url: "https://i.ibb.co/FKMqc28/adeola-badero.png",
+        url: "https://.png",
         width: 1200,
         height: 630,
         alt: "Hari Dharanesh SP — Frontend Developer",
@@ -57,7 +57,7 @@ export const metadata: Metadata = {
     description:
       "I am a passionate UI/UX designer and frontend developer dedicated to crafting seamless and visually compelling digital experiences. As a fresher with a strong foundation in UX research and frontend technologies, I have worked on numerous projects that showcase my ability to create user-friendly, accessible, and high-performance web applications. My expertise lies in translating user needs into intuitive and aesthetically pleasing interfaces using modern design tools and frontend frameworks.",
     creator: "@hari_d_04",
-    images: ["https://i.ibb.co/FKMqc28/adeola-badero.png"],
+    images: ["https://.png"],
   },
   robots: {
     index: true,
